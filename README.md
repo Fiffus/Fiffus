@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fiffus</h1>
 <h3 align="center">A Czech backend Python and Go developer</h3>
 
-- 🌱 I’m currently learning **Django, Gin**
-
-- 📫 How to reach me **fp.uherek@gmail.com**
+- 🌱 I’m currently learning **Django, Gin and Ebitengine**
 
 <p align="left">
 </p>
